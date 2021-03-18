@@ -1,6 +1,6 @@
 This project was created with [Create React App]
 
-run some php command from the root of project
+run some commands from the root of project
 
 ``npm install``
 
